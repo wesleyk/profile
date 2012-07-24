@@ -87,6 +87,12 @@ a {
 	color:#808080;
 }
 
+a.icons {
+	position: relative;
+	top: -15px;
+	padding-right: 5px;
+}
+
 img.profile {
 	-moz-border-radius:18px;
 	-webkit-border-radius:18px;
