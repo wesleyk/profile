@@ -1,4 +1,6 @@
 Profile
 =======
 
-Personal profile webpage. Last updated 01/2013.
+Personal profile webpage.
+
+Last updated 01/2013.
