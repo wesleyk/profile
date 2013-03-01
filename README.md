@@ -1,4 +1,4 @@
-profile
+Profile
 =======
 
-Personal Profile Webpage
+Personal profile webpage. Last updated 01/2013.
